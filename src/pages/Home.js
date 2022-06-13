@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-// import "../component/AddTodo.js";
-// import "../component/todo.js";
+import "../component/AddTodo.js";
+import "../component/todo.js";
 import AddTodo from "../component/AddTodo.js";
 import Todos from "../component/todos.js";
 import "./Home.css";
